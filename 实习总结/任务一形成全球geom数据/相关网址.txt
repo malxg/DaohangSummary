@@ -1,0 +1,2 @@
+OpenStreetMap Data Extracts   https://download.geofabrik.de/
+OpenStreetMap数据文档介绍： https://www.geofabrik.de/data/geofabrik-osm-gis-standard-0.7.pdf
